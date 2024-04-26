@@ -1,5 +1,5 @@
 # ReactSQL
-## React.js ⚛️ + Vite ⚡ + Express.js + Mysql = ❤️
+## React.js ⚛️ + Vite ⚡ + Express.js + MySQL = ❤️
 
 <img src="https://i.ibb.co/CH56W1H/https-imagecdn-copymatic-ai-img-K3-JAWBu-Aza-DPyb4klh-JKTTFy.png" alt="Image Description" width="1200" height="200">
 
