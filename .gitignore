@@ -1,0 +1,53 @@
+# Abhängigkeiten
+/node_modules
+/package-lock.json
+/yarn.lock
+
+# Log-Dateien
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime Daten
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Verzeichnis für Produktionsumgebung
+/build
+
+# Verzeichnis für Entwicklungsumgebung
+/.pnp
+.pnp.js
+
+# Konfigurationsdateien
+/.env
+/.env.local
+/.env.development.local
+/.env.test.local
+/.env.production.local
+
+# Debugger-Dateien
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Betriebssystem-Dateien
+.DS_Store
+Thumbs.db
+
+# Optional: ESLint Cache
+.eslintcache
+
+# Optional: Log-Dateien
+*.log
+
+# Optional: SQLite Datenbank
+*.sqlite
+
+# Build-Verzeichnisse
+/dist
+/tmp
