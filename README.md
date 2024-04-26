@@ -29,3 +29,12 @@ Follow these steps to install and run the project on your local system:
    npm install
    cd ../frontend
    npm install
+
+## Start
+
+This is how you start the Front- & Backend
+
+cd Backend
+npm start
+cd Frontend
+npm run dev
