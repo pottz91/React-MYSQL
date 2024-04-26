@@ -18,6 +18,8 @@ This project demonstrates the integration of a simple React application with a M
 
 Before getting started with this project, make sure you have Node.js, MySQL, and optionally Yarn or npm (which comes with Node.js) installed on your system.
 
+Also you can add also an external MySQL Database
+
 ## Installation
 
 Follow these steps to install and run the project on your local system:
@@ -32,9 +34,10 @@ Follow these steps to install and run the project on your local system:
 
 ## Start
 
-This is how you start the Front- & Backend
+2. This is how you start, frontEnd and Backend:
+   ```bash
+   cd Backend
+   npm start
+   cd frontEnd
+   npm run dev
 
-cd Backend
-npm start
-cd Frontend
-npm run dev
