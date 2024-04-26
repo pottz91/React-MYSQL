@@ -1,6 +1,6 @@
 # React-MySQL-Node Application
 
-<img src="https://i.ibb.co/f9Ms46H/https-imagecdn-copymatic-ai-img-1r8-Dhv6ij4kl-Wmbm-Aw-Ubf-O26.png" alt="Image Description" width="300" height="200">
+<img src="https://i.ibb.co/CH56W1H/https-imagecdn-copymatic-ai-img-K3-JAWBu-Aza-DPyb4klh-JKTTFy.png" alt="Image Description" width="1200" height="200">
 
 
 ## About the Project
