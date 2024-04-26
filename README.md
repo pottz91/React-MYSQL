@@ -1,5 +1,8 @@
 # React-MySQL-Node Application
 
+![Image Description](https://i.ibb.co/f9Ms46H/https-imagecdn-copymatic-ai-img-1r8-Dhv6ij4kl-Wmbm-Aw-Ubf-O26.png)
+
+
 ## About the Project
 
 This project demonstrates the integration of a simple React application with a MySQL database via a Node.js/Express.js server. It shows how to effectively implement and manage a server solution for applications using ReactJS and MySQL. This project is ideal for developers who want to gain hands-on experience with these technologies and develop their own applications.
