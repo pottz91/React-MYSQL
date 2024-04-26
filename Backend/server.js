@@ -6,12 +6,12 @@ const app = express()
 app.use(cors())
 
 
-// This is your Database Connection credientials:
+// DB connection
 const db = mysql.createConnection({
     host: "localhost",
-    user: 'root',
+    user: 'user',
     password: '',
-    database: 'db'
+    database: 'database'
 })
 
 
